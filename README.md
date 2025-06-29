@@ -1,19 +1,12 @@
-# Inhouse Competition - IIIT Allahabad
+# 🎯 Placify – Placement Management System
 
-## Topic: College Related
+The primary goal of Placify is to streamline the campus placement and recruitment process by creating a centralized platform for all placement-related communication and activities.
+
+Students often miss out on opportunities due to scattered updates shared across multiple platforms such as WhatsApp groups, Facebook posts, Gmail threads, and Excel sheets. In some cases, companies close applications before the communicated deadline, and students remain unaware because they were not constantly checking every channel.
+
+Placify addresses this issue by bringing everything under one roof—a unified system where students, coordinators, and administrators can interact, manage drives, share announcements, and stay updated without information overload or missed deadlines.
 
 
-### Problem Statement
-
-Students often miss out on job opportunities due to scattered and overwhelming information on various websites. A structured system, guided by experienced mentors or seniors, can help students navigate web development, Android, AWS, and other tech paths effectively.
-
----
-
-## Introduction
-
-The Placement Management System is a web application built for the Training and Placement Cell of IIIT Allahabad. It streamlines the placement process for students and staff with efficient data management and access. Students can register, upload academic profiles, and participate in drives, while administrators and coordinators can manage registrations, drives, and communication. The system ensures secure data storage and enables one-time student registration.
-
----
 
 ## Features
 
@@ -22,7 +15,7 @@ The Placement Management System is a web application built for the Training and 
 - Coordinators can post drives and manage student applications
 - Admin can approve or reject student and coordinator registrations
 - Admin can post notices to students and coordinators
-- Resume uploads and skill tagging
+- Resume uploads
 - View and manage student/company profiles
 - Integrated contact system
 
@@ -33,7 +26,6 @@ The Placement Management System is a web application built for the Training and 
 - Frontend: HTML, CSS, JavaScript, Bootstrap
 - Backend: PHP
 - Database: MySQL
-- Others: DataTables, FontAwesome
 
 ---
 
