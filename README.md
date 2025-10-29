@@ -1,4 +1,4 @@
-# 🎯 Placify – Placement Management System
+# 🎯 Utkarsh Portal – Placement Management System
 
 The primary goal of Placify is to streamline the campus placement and recruitment process by creating a centralized platform for all placement-related communication and activities.
 
